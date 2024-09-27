@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://finewswa.github.io/sitemap.finewswa.gz
+Sitemap: https://finewswa.github.io/app/sitemap.finewswa.gz
+Sitemap: https://finewswa.github.io/assets/sitemap.finewswa.gz
+Sitemap: https://finewswa.github.io/css/sitemap.finewswa.gz
+Sitemap: https://finewswa.github.io/data/sitemap.finewswa.gz
+Sitemap: https://finewswa.github.io/includes/sitemap.finewswa.gz
+Sitemap: https://finewswa.github.io/item/sitemap.finewswa.gz
+Sitemap: https://finewswa.github.io/src/sitemap.finewswa.gz
